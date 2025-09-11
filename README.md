@@ -1,6 +1,6 @@
 # Hi there, I'm Nitin Singh 👋
 
-> [cite_start]I'm a passionate and driven Computer Science student at **VIT Chennai**, specializing in **Artificial Intelligence & Machine Learning** with an expected graduation in 2027[cite: 4, 5, 6]. [cite_start]I thrive on building full-stack applications that solve real-world problems and have a strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**[cite: 17]. I am also an active competitive programmer, constantly honing my problem-solving skills.
+I'm a passionate and driven Computer Science student at **VIT Chennai**, specializing in **Artificial Intelligence & Machine Learning** with an expected graduation in 2027. I thrive on building full-stack applications that solve real-world problems and have a strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**. I am also an active competitive programmer, constantly honing my problem-solving skills.
 
 ---
 
@@ -42,24 +42,24 @@
 
 - **[Document Analysis & Chat Platform](https://github.com/Nitin-singh03/Secure-Document-Analysis-Chat-Platform)**
 
-  - [cite_start]Architected a full-stack document intelligence platform using the MERN stack for secure document management[cite: 25, 26].
-  - [cite_start]Implemented a multi-layered authentication system with JWT, OAuth 2.0 (Google/GitHub), and OTP verification[cite: 27].
-  - [cite_start]Engineered an advanced RAG pipeline with the Google Gemini API to extract text from PDF/DOCX files and provide intelligent, conversational answers to user queries[cite: 28].
+  - Architected a full-stack document intelligence platform using the MERN stack for secure document management.
+  - Implemented a multi-layered authentication system with JWT, OAuth 2.0 (Google/GitHub), and OTP verification.
+  - Engineered an advanced RAG pipeline with the Google Gemini API to extract text from PDF/DOCX files and provide intelligent, conversational answers to user queries.
 
 - **[E-Commerce Platform (Amazon HackOn - Top 1%)](https://github.com/Nitin-singh03/HackOn-Prototype)**
 
-  - [cite_start]Developed a full-stack MERN + ML application to promote sustainability, ranking in the top 1% at Amazon HackOn - Season 5[cite: 19].
-  - [cite_start]Features include AI-powered recommendations, an ML-based delivery scheduler, and a dual-coin system to reward eco-friendly actions[cite: 21].
-  - [cite_start]Includes a "Curated Green Store" with carbon footprint tracking and sustainability-graded filters[cite: 22].
+  - Developed a full-stack MERN + ML application to promote sustainability, ranking in the top 1% at Amazon HackOn - Season 5.
+  - Features include AI-powered recommendations, an ML-based delivery scheduler, and a dual-coin system to reward eco-friendly actions.
+  - Includes a "Curated Green Store" with carbon footprint tracking and sustainability-graded filters.
 
 - **[AgroGuide](https://github.com/Nitin-singh03/AgroGuide)**
 
-  - [cite_start]A full-stack agricultural marketplace built with Node.js, Express, and MongoDB, connecting buyers, contractors, and sellers[cite: 23].
-  - [cite_start]Features include job posting, contractor dashboards, secure chat, and session-based authentication using Passport[cite: 24].
+  - A full-stack agricultural marketplace built with Node.js, Express, and MongoDB, connecting buyers, contractors, and sellers.
+  - Features include job posting, contractor dashboards, secure chat, and session-based authentication using Passport.
 
 - **[PriceScope](https://github.com/Nitin-singh03/PriceScope)**
-  - [cite_start]A price comparison tool that scrapes data from Amazon, Flipkart, and JioMart using Python (Selenium, BeautifulSoup)[cite: 29, 30].
-  - [cite_start]The scraped data is normalized, deduplicated, and integrated into an Express.js app to render comparative pricing across platforms[cite: 31].
+  - A price comparison tool that scrapes data from Amazon, Flipkart, and JioMart using Python (Selenium, BeautifulSoup).
+  - The scraped data is normalized, deduplicated, and integrated into an Express.js app to render comparative pricing across platforms.
 
 ---
 
@@ -76,7 +76,7 @@ I actively solve problems on various platforms to sharpen my algorithmic skills.
 ### 👨‍💻 Leadership Experience
 
 - **Competitive Coding Department Lead | CodeChef Club at VIT Chennai**
-  - [cite_start]Led the planning and execution of large-scale competitive programming events, engaging over 300 student participants[cite: 34].
+  - Led the planning and execution of large-scale competitive programming events, engaging over 300 student participants.
 
 ---
 
