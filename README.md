@@ -167,26 +167,6 @@ I enjoy competitive programming because it forces me to think beyond simply maki
 
 </div>
 
-## 📈 My Developer Journey
-
-```mermaid
-graph TD
-    A[C / C++ / Java] --> B[Data Structures & Algorithms]
-    B --> C[Full-Stack Development]
-    C --> D[Backend Architecture]
-    D --> E[Mobile Development]
-    E --> F[AI / ML Integration]
-    F --> G[🚀 Scalable Systems]
-
-    style A fill:#36BCF7,color:#fff
-    style B fill:#4C9BE8,color:#fff
-    style C fill:#6B8CDB,color:#fff
-    style D fill:#8A7DCE,color:#fff
-    style E fill:#A96EC1,color:#fff
-    style F fill:#C85FB4,color:#fff
-    style G fill:#FF6F00,color:#fff
-```
-
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/original.gif" width="100%">
 
 ## 🤝 Let's Connect
